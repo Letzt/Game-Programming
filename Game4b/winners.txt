@@ -1,0 +1,5 @@
+Moni 17
+player 14
+Maanu 6
+player1 2
+empty 0
